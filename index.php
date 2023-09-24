@@ -283,7 +283,7 @@ get_header('first');
                         <li>
                             <div class="services_block is-start-animation start-animation">
                                 <div class="services_block_image">
-                                    <img width="661" height="501" src="https://909.clinic/wp-content/uploads/2023/05/apparatnaya-1.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://909.clinic/wp-content/uploads/2023/05/apparatnaya-1.png 661w, https://909.clinic/wp-content/uploads/2023/05/apparatnaya-1-300x227.png 300w" sizes="(max-width: 661px) 100vw, 661px">
+                                    <img width="661" height="501" src="<?php echo get_template_directory_uri(); ?>/img/uslugi2/01.png" class="attachment-full size-full" alt="" loading="lazy" sizes="(max-width: 661px) 100vw, 661px">
                                 </div>
                                 <div class="services_block_urls">
                                     <div class="sbu_title_services"><a href="#" title="Аппаратная косметология">Аппаратная косметология</a></div>
@@ -316,7 +316,7 @@ get_header('first');
                         <li>
                             <div class="services_block is-start-animation start-animation">
                                 <div class="services_block_image">
-                                    <img width="661" height="501" src="https://909.clinic/wp-content/uploads/2023/05/inekzionnaya.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://909.clinic/wp-content/uploads/2023/05/inekzionnaya.png 661w, https://909.clinic/wp-content/uploads/2023/05/inekzionnaya-300x227.png 300w" sizes="(max-width: 661px) 100vw, 661px">
+                                    <img width="661" height="501" src="<?php echo get_template_directory_uri(); ?>/img/uslugi2/02.png" class="attachment-full size-full" alt="" loading="lazy" sizes="(max-width: 661px) 100vw, 661px">
                                 </div>
                                 <div class="services_block_urls">
                                     <div class="sbu_title_services"><a href="#" title="Инъекционная косметология">Инъекционная косметология</a></div>
@@ -337,7 +337,7 @@ get_header('first');
                         <li>
                             <div class="services_block is-start-animation start-animation">
                                 <div class="services_block_image">
-                                    <img width="661" height="501" src="https://909.clinic/wp-content/uploads/2023/05/massage.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://909.clinic/wp-content/uploads/2023/05/massage.png 661w, https://909.clinic/wp-content/uploads/2023/05/massage-300x227.png 300w" sizes="(max-width: 661px) 100vw, 661px">
+                                    <img width="661" height="501" src="<?php echo get_template_directory_uri(); ?>/img/uslugi2/03.png" class="attachment-full size-full" alt="" loading="lazy" sizes="(max-width: 661px) 100vw, 661px">
                                 </div>
                                 <div class="services_block_urls">
                                     <div class="sbu_title_services"><a href="#" title="Кабинет по телу">Кабинет по телу</a></div>
@@ -370,7 +370,7 @@ get_header('first');
                         <li>
                             <div class="services_block is-start-animation">
                                 <div class="services_block_image">
-                                    <img width="661" height="501" src="https://909.clinic/wp-content/uploads/2023/05/lazer_2.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://909.clinic/wp-content/uploads/2023/05/lazer_2.png 661w, https://909.clinic/wp-content/uploads/2023/05/lazer_2-300x227.png 300w" sizes="(max-width: 661px) 100vw, 661px">
+                                    <img width="661" height="501" src="<?php echo get_template_directory_uri(); ?>/img/uslugi2/04.png" class="attachment-full size-full" alt="" loading="lazy" sizes="(max-width: 661px) 100vw, 661px">
                                 </div>
                                 <div class="services_block_urls">
                                     <div class="sbu_title_services"><a href="#" title="Капельницы">Капельницы</a></div>
@@ -391,7 +391,7 @@ get_header('first');
                         <li>
                             <div class="services_block is-start-animation">
                                 <div class="services_block_image">
-                                    <img width="661" height="501" src="https://909.clinic/wp-content/uploads/2023/05/konsultazya.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://909.clinic/wp-content/uploads/2023/05/konsultazya.png 661w, https://909.clinic/wp-content/uploads/2023/05/konsultazya-300x227.png 300w" sizes="(max-width: 661px) 100vw, 661px">
+                                    <img width="661" height="501" src="<?php echo get_template_directory_uri(); ?>/img/uslugi2/05.png" class="attachment-full size-full" alt="" loading="lazy" sizes="(max-width: 661px) 100vw, 661px">
                                 </div>
                                 <div class="services_block_urls">
                                     <div class="sbu_title_services"><a href="#" title="Терапевт + анализы крови">Терапевт + анализы крови</a></div>

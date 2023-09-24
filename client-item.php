@@ -61,9 +61,9 @@ get_header('first');
                 <div class="client__in">
                     <h2 class="client__head section__title">ЕЩЕ Клиентские дни</h2>
                     <div class="client__body">
-                        <div class="client__body_slider">
-                            <div class="client__body_slider_wr">
-                                <a href="#" class="client__body_slider_slide">
+                        <div class="client__body_slider swiper">
+                            <div class="client__body_slider_wr swiper-wrapper">
+                                <a href="#" class="client__body_slider_slide swiper-slide">
                                     <div class="client__body_slider_slide_img">
                                         <picture>
                                             <source srcset="" type="image/webp">
@@ -80,7 +80,7 @@ get_header('first');
                                         </div>
                                     </div>
                                 </a>
-                                <a href="#" class="client__body_slider_slide">
+                                <a href="#" class="client__body_slider_slide swiper-slide">
                                     <div class="client__body_slider_slide_img">
                                         <picture>
                                             <source srcset="" type="image/webp">
@@ -97,7 +97,7 @@ get_header('first');
                                         </div>
                                     </div>
                                 </a>
-                                <a href="#" class="client__body_slider_slide">
+                                <a href="#" class="client__body_slider_slide swiper-slide">
                                     <div class="client__body_slider_slide_img">
                                         <picture>
                                             <source srcset="" type="image/webp">
@@ -114,7 +114,7 @@ get_header('first');
                                         </div>
                                     </div>
                                 </a>
-                                <a href="#" class="client__body_slider_slide">
+                                <a href="#" class="client__body_slider_slide swiper-slide">
                                     <div class="client__body_slider_slide_img">
                                         <picture>
                                             <source srcset="" type="image/webp">
